@@ -1,2 +1,4 @@
 Flask
 Redis
+jinja2
+flask_assets
